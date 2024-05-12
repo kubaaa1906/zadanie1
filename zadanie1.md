@@ -1,4 +1,4 @@
-# Zadanie 1 - potrzebne polecenia oraz link do DockerHub
+# Zadanie 1
 Część podstawowa:
 1. Polecenie do budowy kontenera: docker build -t zadanie1final .
 2. Polecenie do uruchomienia kontenera: docker run -d -p 3000:8081 --name zadanie1final -t zadanie1final
