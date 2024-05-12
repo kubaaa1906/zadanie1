@@ -1,3 +1,4 @@
+# Zadanie 1
 Część dodatkowa:
 1. Do stworzenia własnego buildera użyłem polecenia: docker buildx create --name zadanie1builder --driver docker-container -bootstrap
 2. Aby ustawić stworzony builder jako domyślny użyłem polecenia: docker buildx use zadanie1builder
